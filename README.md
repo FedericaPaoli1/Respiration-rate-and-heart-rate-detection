@@ -71,7 +71,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Federica Paoli' - federica.p08@gmail.com
+Federica Paoli' - federicapaoli1@gmail.com
 
 Project Link: [https://github.com/FedericaPaoli1/Respiration-rate-and-heart-rate-detection](https://github.com/FedericaPaoli1/Respiration-rate-and-heart-rate-detection)
 
